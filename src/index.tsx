@@ -1,12 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import DashboardPage from "@pages/Dashboard";
+// import DashboardPage from "@pages/Dashboard";
 import reportWebVitals from "./reportWebVitals";
+// import { BrowserRouter } from "react-router-dom";
+import Router from "./routes";
 
 ReactDOM.render(
   <React.StrictMode>
-    <DashboardPage />
+    <Router />
   </React.StrictMode>,
   document.getElementById("root")
 );

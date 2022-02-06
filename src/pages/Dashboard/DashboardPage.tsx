@@ -1,4 +1,4 @@
-// import React from "react";
+import { Link } from "react-router-dom";
 import logo from "@assets/logo.svg";
 import "./styles.css";
 
@@ -10,14 +10,15 @@ const DashboardPage = () => {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
-        <a
+        {/* <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
           Learn React
-        </a>
+        </a> */}
+        <Link to="/login">Invoices</Link> | <Link to="/settings">Expenses</Link>
       </header>
     </div>
   );

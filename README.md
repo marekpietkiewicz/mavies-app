@@ -2,6 +2,15 @@
 
 Created by [Marek Pietkiewicz](https://www.linkedin.com/in/marek-pietkiewicz-b7132813/).
 
+## Technologies used in Movies-app
+
+- [ReactJS](https://reactjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [react-app-rewired](https://github.com/timarney/react-app-rewired#readme)
+- [react-app-rewire-alias](https://github.com/oklas/react-app-rewire-alias)
+- [Typescript](https://www.typescriptlang.org/)
+- [React-Router-Dom](https://github.com/remix-run/react-router)
+
 ## Available Scripts
 
 In the project directory, you can run:
