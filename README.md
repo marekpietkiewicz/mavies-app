@@ -10,6 +10,8 @@ Created by [Marek Pietkiewicz](https://www.linkedin.com/in/marek-pietkiewicz-b71
 - [react-app-rewire-alias](https://github.com/oklas/react-app-rewire-alias)
 - [Typescript](https://www.typescriptlang.org/)
 - [React-Router-Dom](https://github.com/remix-run/react-router)
+- [lodash](https://lodash.com/)
+- [MUI](https://mui.com/)
 
 ## Available Scripts
 
