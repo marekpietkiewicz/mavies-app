@@ -16,6 +16,7 @@ Created by [Marek Pietkiewicz](https://www.linkedin.com/in/marek-pietkiewicz-b71
 - [MUI](https://mui.com/)
 - [React-Query](https://react-query.tanstack.com/)
 - [Axios](https://axios-http.com/)
+- [Styled Components](https://styled-components.com/)
 
 ## Available Scripts
 
