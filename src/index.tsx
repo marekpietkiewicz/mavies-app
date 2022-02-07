@@ -5,10 +5,13 @@ import "./index.css";
 import reportWebVitals from "./reportWebVitals";
 // import { BrowserRouter } from "react-router-dom";
 import Router from "./routes";
+import { ReactQueryProvider } from "./queryProvider";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Router />
+    <ReactQueryProvider>
+      <Router />
+    </ReactQueryProvider>
   </React.StrictMode>,
   document.getElementById("root")
 );
