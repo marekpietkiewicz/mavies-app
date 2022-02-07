@@ -2,6 +2,8 @@
 
 Created by [Marek Pietkiewicz](https://www.linkedin.com/in/marek-pietkiewicz-b7132813/).
 
+![image](https://github.com/marekpietkiewicz/mavies-app/blob/master/public/preview.PNG?raw=true)
+
 ## Technologies used in Movies-app
 
 - [ReactJS](https://reactjs.org/)
